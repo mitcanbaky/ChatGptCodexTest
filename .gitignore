@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+associations.json
+associations-*.json
